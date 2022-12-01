@@ -46,6 +46,10 @@ export const Skills = () => {
                                 <h5>Next.js</h5>
                             </div>
                             <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Node.js</h5>
+                            </div>
+                            <div className="item">
                                 <img src={meter3} alt="Image" />
                                 <h5>Tailwind CSS</h5>
                             </div>
