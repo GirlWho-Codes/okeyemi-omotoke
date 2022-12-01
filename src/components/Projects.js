@@ -105,6 +105,24 @@ const projects3 =
             description: "Portfolio",
             imgUrl: projImg15,
           },
+      {
+            title: "Journal App",
+            description: "Journal",
+            imgUrl: projImg16,
+            hrefData: "https://journal-app-uftq.vercel.app/"
+          },
+          {
+            title: "Journal App",
+            description: "Journal",
+            imgUrl: projImg17,
+            hrefData: "https://journal-app-uftq.vercel.app/"
+          },
+          {
+            title: "Journal App",
+            description: "Journal",
+            imgUrl: projImg18,
+            hrefData: "https://journal-app-uftq.vercel.app/"
+          },
       
     ];                
 
